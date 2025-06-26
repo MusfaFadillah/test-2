@@ -1,1 +1,2 @@
-Nama : keling
+Nama kucing 1 : gembul
+Nama kucing 2 : keling
